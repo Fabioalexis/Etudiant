@@ -1,0 +1,23 @@
+c:\users\fabio\onedrive\documents\visual studio 2012\Projects\Etudiant\Etudiant\bin\Debug\Etudiant.exe.config
+C:\Users\Fabio\OneDrive\documents\visual studio 2012\Projects\Etudiant\Etudiant\bin\Debug\MaBase.mdf
+C:\Users\Fabio\OneDrive\documents\visual studio 2012\Projects\Etudiant\Etudiant\bin\Debug\MaBase_log.ldf
+C:\Users\Fabio\OneDrive\documents\visual studio 2012\Projects\Etudiant\Etudiant\bin\Debug\Etudiant.exe
+C:\Users\Fabio\OneDrive\documents\visual studio 2012\Projects\Etudiant\Etudiant\bin\Debug\Etudiant.pdb
+C:\Users\Fabio\OneDrive\documents\visual studio 2012\Projects\Etudiant\Etudiant\obj\Debug\Etudiant.csprojResolveAssemblyReference.cache
+C:\Users\Fabio\OneDrive\documents\visual studio 2012\Projects\Etudiant\Etudiant\obj\Debug\Etudiant.Form1.resources
+C:\Users\Fabio\OneDrive\documents\visual studio 2012\Projects\Etudiant\Etudiant\obj\Debug\Etudiant.Properties.Resources.resources
+C:\Users\Fabio\OneDrive\documents\visual studio 2012\Projects\Etudiant\Etudiant\obj\Debug\Etudiant.csproj.GenerateResource.Cache
+C:\Users\Fabio\OneDrive\documents\visual studio 2012\Projects\Etudiant\Etudiant\obj\Debug\Etudiant.exe
+C:\Users\Fabio\OneDrive\documents\visual studio 2012\Projects\Etudiant\Etudiant\obj\Debug\Etudiant.pdb
+E:\Etudiant\Etudiant\bin\Debug\Etudiant.exe.config
+E:\Etudiant\Etudiant\obj\Debug\Etudiant.exe
+E:\Etudiant\Etudiant\obj\Debug\Etudiant.pdb
+E:\Etudiant\Etudiant\bin\Debug\MaBase.mdf
+E:\Etudiant\Etudiant\bin\Debug\MaBase_log.ldf
+E:\Etudiant\Etudiant\bin\Debug\Etudiant.exe
+E:\Etudiant\Etudiant\bin\Debug\Etudiant.pdb
+E:\Etudiant\Etudiant\obj\Debug\Etudiant.csprojResolveAssemblyReference.cache
+E:\Etudiant\Etudiant\obj\Debug\Etudiant.Form1.resources
+E:\Etudiant\Etudiant\obj\Debug\Etudiant.Properties.Resources.resources
+E:\Etudiant\Etudiant\obj\Debug\Etudiant.csproj.GenerateResource.Cache
+E:\Etudiant\Etudiant\obj\Debug\Etudiant.FormListe.resources
